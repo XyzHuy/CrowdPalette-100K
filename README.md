@@ -1,7 +1,7 @@
 # CrowdPalette-100K
 A user-contributed dataset of 100K color palettes
 
-This dataset contains 100,000 color palettes collected from online community sources.
+This dataset contains 100,000 color palettes with 5 colors each collected from online community sources.
 Each palette includes names, HEX codes, and RGB values.
 
 ##  Data format
